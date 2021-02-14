@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "csharp\hello-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pangram", "csharp\pangram\Pangram.csproj", "{EBD0D908-38CC-4EE7-AF95-41F77221B5B0}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoFer", "csharp\two-fer\TwoFer.csproj", "{F341DC56-FE8B-4CE0-B1DF-92053F0134A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EBD0D908-38CC-4EE7-AF95-41F77221B5B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBD0D908-38CC-4EE7-AF95-41F77221B5B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBD0D908-38CC-4EE7-AF95-41F77221B5B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F341DC56-FE8B-4CE0-B1DF-92053F0134A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F341DC56-FE8B-4CE0-B1DF-92053F0134A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F341DC56-FE8B-4CE0-B1DF-92053F0134A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F341DC56-FE8B-4CE0-B1DF-92053F0134A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

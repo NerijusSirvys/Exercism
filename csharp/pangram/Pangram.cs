@@ -15,11 +15,8 @@
             {
                 IsPangram = false;
             }
-
         }
 
         return IsPangram;
-
-
     }
 }
