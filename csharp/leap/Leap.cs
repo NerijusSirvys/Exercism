@@ -1,9 +1,16 @@
-using System;
-
 public static class Leap
 {
     public static bool IsLeapYear(int year)
     {
-        throw new NotImplementedException("You need to implement this function.");
+        bool isLeap = false;
+
+        isLeap = year % 4 == 0;
+
+        if (year % 100 == 0)
+        {
+            isLeap = year % 400 == 0;
+        }
+
+        return isLeap;
     }
 }
