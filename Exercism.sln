@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PerfectNumbers", "csharp\pe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gigasecond", "csharp\gigasecond\Gigasecond.csproj", "{CC0FDA06-6053-4F85-8C0E-36DE371E5A5C}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollatzConjecture", "csharp\collatz-conjecture\CollatzConjecture.csproj", "{1A487EE6-CD55-4364-865E-ED66F21D2B96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{CC0FDA06-6053-4F85-8C0E-36DE371E5A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC0FDA06-6053-4F85-8C0E-36DE371E5A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC0FDA06-6053-4F85-8C0E-36DE371E5A5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A487EE6-CD55-4364-865E-ED66F21D2B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A487EE6-CD55-4364-865E-ED66F21D2B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A487EE6-CD55-4364-865E-ED66F21D2B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A487EE6-CD55-4364-865E-ED66F21D2B96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
