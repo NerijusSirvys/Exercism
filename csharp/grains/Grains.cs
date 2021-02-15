@@ -9,14 +9,8 @@ public static class Grains
             throw new ArgumentOutOfRangeException();
         }
 
-        if (n == 1)
-        {
-            return 1;
-        }
-        else
-        {
-            return (ulong)Math.Pow(2, n - 1);
-        }
+        return (ulong)Math.Pow(2, n - 1);
+
 
     }
 
