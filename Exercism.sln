@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Acronym", "csharp\Medium\ac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScrabbleScore", "csharp\Easy\scrabble-score\ScrabbleScore.csproj", "{FFB4F62C-6982-4AC4-8C18-3925995AFC4B}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Meetup", "csharp\Medium\meetup\Meetup.csproj", "{FDC20A56-0C28-4C37-879C-C5A3EAE2DB93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{FFB4F62C-6982-4AC4-8C18-3925995AFC4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFB4F62C-6982-4AC4-8C18-3925995AFC4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFB4F62C-6982-4AC4-8C18-3925995AFC4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDC20A56-0C28-4C37-879C-C5A3EAE2DB93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDC20A56-0C28-4C37-879C-C5A3EAE2DB93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDC20A56-0C28-4C37-879C-C5A3EAE2DB93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDC20A56-0C28-4C37-879C-C5A3EAE2DB93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -104,6 +110,7 @@ Global
 		{AC530BD1-497E-4FC4-AFDF-EEFA1636C5E0} = {7A129711-0E84-44FF-AA57-FAB07DAF24B5}
 		{C43CBE30-A33D-4C70-90C1-0DE791D682BC} = {B84C77D4-A440-4644-A14B-90ED38F8E3AE}
 		{FFB4F62C-6982-4AC4-8C18-3925995AFC4B} = {7A129711-0E84-44FF-AA57-FAB07DAF24B5}
+		{FDC20A56-0C28-4C37-879C-C5A3EAE2DB93} = {B84C77D4-A440-4644-A14B-90ED38F8E3AE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2867CB6D-9369-4ED6-ADB5-4693BFAEE53F}
