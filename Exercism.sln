@@ -35,6 +35,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScrabbleScore", "csharp\Eas
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Meetup", "csharp\Medium\meetup\Meetup.csproj", "{FDC20A56-0C28-4C37-879C-C5A3EAE2DB93}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResistorColor", "csharp\Core Exercises\resistor-color\ResistorColor.csproj", "{32E0D94B-5C4D-44EE-B724-6F16217105BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfMultiples", "csharp\Easy\sum-of-multiples\SumOfMultiples.csproj", "{3B3B7FF3-EEBB-4F34-A7E1-DE009528EB08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{FDC20A56-0C28-4C37-879C-C5A3EAE2DB93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDC20A56-0C28-4C37-879C-C5A3EAE2DB93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDC20A56-0C28-4C37-879C-C5A3EAE2DB93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32E0D94B-5C4D-44EE-B724-6F16217105BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32E0D94B-5C4D-44EE-B724-6F16217105BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32E0D94B-5C4D-44EE-B724-6F16217105BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E0D94B-5C4D-44EE-B724-6F16217105BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B3B7FF3-EEBB-4F34-A7E1-DE009528EB08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3B7FF3-EEBB-4F34-A7E1-DE009528EB08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3B7FF3-EEBB-4F34-A7E1-DE009528EB08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3B7FF3-EEBB-4F34-A7E1-DE009528EB08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -111,6 +123,8 @@ Global
 		{C43CBE30-A33D-4C70-90C1-0DE791D682BC} = {B84C77D4-A440-4644-A14B-90ED38F8E3AE}
 		{FFB4F62C-6982-4AC4-8C18-3925995AFC4B} = {7A129711-0E84-44FF-AA57-FAB07DAF24B5}
 		{FDC20A56-0C28-4C37-879C-C5A3EAE2DB93} = {B84C77D4-A440-4644-A14B-90ED38F8E3AE}
+		{32E0D94B-5C4D-44EE-B724-6F16217105BE} = {1BCAD328-08B3-44B2-8C63-74CFEFA9985D}
+		{3B3B7FF3-EEBB-4F34-A7E1-DE009528EB08} = {7A129711-0E84-44FF-AA57-FAB07DAF24B5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2867CB6D-9369-4ED6-ADB5-4693BFAEE53F}
