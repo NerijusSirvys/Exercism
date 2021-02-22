@@ -41,6 +41,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfMultiples", "csharp\Ea
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Accumulate", "csharp\Easy\accumulate\Accumulate.csproj", "{78DDE215-75EF-4183-84EE-5D69D7AD5BFD}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResistorColorTrio", "csharp\Easy\resistor-color-trio\ResistorColorTrio.csproj", "{BD4C9619-5D3F-4C96-9F7C-A030686493CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{78DDE215-75EF-4183-84EE-5D69D7AD5BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78DDE215-75EF-4183-84EE-5D69D7AD5BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78DDE215-75EF-4183-84EE-5D69D7AD5BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD4C9619-5D3F-4C96-9F7C-A030686493CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD4C9619-5D3F-4C96-9F7C-A030686493CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD4C9619-5D3F-4C96-9F7C-A030686493CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD4C9619-5D3F-4C96-9F7C-A030686493CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -132,6 +138,7 @@ Global
 		{32E0D94B-5C4D-44EE-B724-6F16217105BE} = {1BCAD328-08B3-44B2-8C63-74CFEFA9985D}
 		{3B3B7FF3-EEBB-4F34-A7E1-DE009528EB08} = {7A129711-0E84-44FF-AA57-FAB07DAF24B5}
 		{78DDE215-75EF-4183-84EE-5D69D7AD5BFD} = {7A129711-0E84-44FF-AA57-FAB07DAF24B5}
+		{BD4C9619-5D3F-4C96-9F7C-A030686493CA} = {7A129711-0E84-44FF-AA57-FAB07DAF24B5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2867CB6D-9369-4ED6-ADB5-4693BFAEE53F}
