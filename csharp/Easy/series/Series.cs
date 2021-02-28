@@ -12,8 +12,6 @@ public static class Series
 
         if (sliceLength <= 0) throw new ArgumentException();
 
-        if (numbers.Length == sliceLength) return new string[] { numbers };
-
 
         List<string> output = new List<string>();
         for (int i = 0; i <= numbers.Length - sliceLength; i++)
